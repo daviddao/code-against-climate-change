@@ -103,6 +103,7 @@ Innovative projects need funding, this is a list of resources where hackers and 
 
 - [Microsoft AI for Earth](https://www.microsoft.com/en-us/ai-for-earth/grants) is an innovation program from Microsoft that supports sustainable projects with an grants, PR and networking opportunities.
 - [Climate KIC](https://www.climate-kic.org) is supported by the European Institute of Innovation and Technology and identifies and supports innovation that helps society mitigate and adapt to climate change.
+- [Climate-KIC Accelerator](http://www.climate-kic-dach.org/) supports startups that aspire to create a positive effect on climate issues.
 - [Y Combinator](http://carbon.ycombinator.com/) requests and funds startups that concentrate on frontier technologies such as carbon removal.
 - [Hack4Climate](https://hack4climate.org) is an innovation program, supported by the UNFCCC, designed to accelerate disruptive and tangible climate solutions at scale.   
 
