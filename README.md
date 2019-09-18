@@ -6,6 +6,11 @@
 
 ---
 
+## 🙅‍♀️ Movements
+
+- [Extinction Rebellion](https://github.com/extinctionrebellion/extinctionrebellion) main repo of the movement for mass direct action of non violent civil disobedience to declare the state of climate emergency.
+
+- [Fridays for Future](https://github.com/fridaysforfuture) movement of school kids around the world striking for the climate every Friday following Greta Thunberg's lead.
 
 ## 📈 Data and Metrics 
 
@@ -105,7 +110,8 @@ Innovative projects need funding, this is a list of resources where hackers and 
 - [Climate KIC](https://www.climate-kic.org) is supported by the European Institute of Innovation and Technology and identifies and supports innovation that helps society mitigate and adapt to climate change.
 - [Climate-KIC Accelerator](http://www.climate-kic-dach.org/) supports startups that aspire to create a positive effect on climate issues.
 - [Y Combinator](http://carbon.ycombinator.com/) requests and funds startups that concentrate on frontier technologies such as carbon removal.
-- [Hack4Climate](https://hack4climate.org) is an innovation program, supported by the UNFCCC, designed to accelerate disruptive and tangible climate solutions at scale.   
+- [Hack4Climate](https://hack4climate.org) is an innovation program, supported by the UNFCCC, designed to accelerate disruptive and tangible climate solutions at scale.
+- [Climate Crisis Collective](https://opencollective.com/ccc) is a collective that aims at raising awareness in the tech community about the climate crisis
 
 ## Licenses
 License
