@@ -6,6 +6,9 @@
 
 ---
 
+![](https://preview.redd.it/c91w0c4zqep31.jpg?width=2552&format=pjpg&auto=webp&s=b4a0eed2400fa8cf71e3bcc38fa1d25a2c971311)
+Image by @Paul_Strobel
+
 ## 🙅‍♀️ Movements
 
 - [Extinction Rebellion](https://github.com/extinctionrebellion/extinctionrebellion) main repo of the movement for mass direct action of non violent civil disobedience to declare the state of climate emergency.
