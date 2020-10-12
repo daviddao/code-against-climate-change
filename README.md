@@ -109,7 +109,7 @@ leverages sensors and tools that collects, collates, and analyzes weather data t
 
 Innovative projects need funding, this is a list of resources where hackers and devs can seek for it.
 
-- [Microsoft AI for Earth](https://www.microsoft.com/en-us/ai-for-earth/grants) is an innovation program from Microsoft that supports sustainable projects with an grants, PR and networking opportunities.
+- [Microsoft AI for Earth](https://www.microsoft.com/en-us/ai-for-earth/grants) is an innovation program from Microsoft that supports sustainable projects with grants, PR and networking opportunities.
 - [Climate KIC](https://www.climate-kic.org) is supported by the European Institute of Innovation and Technology and identifies and supports innovation that helps society mitigate and adapt to climate change.
 - [Climate-KIC Accelerator](http://www.climate-kic-dach.org/) supports startups that aspire to create a positive effect on climate issues.
 - [Y Combinator](http://carbon.ycombinator.com/) requests and funds startups that concentrate on frontier technologies such as carbon removal.
