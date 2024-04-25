@@ -6,7 +6,7 @@
 
 ---
 
-![](https://preview.redd.it/c91w0c4zqep31.jpg?width=2552&format=pjpg&auto=webp&s=b4a0eed2400fa8cf71e3bcc38fa1d25a2c971311)
+![Flowchart of possibilities in positively impacting the climate with machine learning (e.g. electricity systems, transportation, buildings & cities, farms & forests, and industry)](https://preview.redd.it/c91w0c4zqep31.jpg?width=2552&format=pjpg&auto=webp&s=b4a0eed2400fa8cf71e3bcc38fa1d25a2c971311)
 Image by @Paul_Strobel
 
 ## 🙅‍♀️ Movements
@@ -21,6 +21,7 @@ Image by @Paul_Strobel
 - [Global Carbon Atlas](http://www.globalcarbonatlas.org) is a platform to explore and visualize the most up-to-date data on carbon fluxes resulting from human activities and natural processes.
 - [Climate Impact Lab](http://www.impactlab.org/) is a collaboration of 30 climate scientists, economists, computational experts, researchers, analysts, and students from the US providing insights into climate change.
 - [The Gold Standard](https://www.goldstandard.org) manages best practice standards for climate and sustainable development interventions to maximise impact.
+- [Planetary Computer](https://planetarycomputer.microsoft.com/) by Microsoft combines a multi-petabyte catalog of global environmental data to allow researchers, developers, and other stakeholders acces to otherwise unobtainable data.
 
 ## 🔌 Energy 
 
@@ -92,7 +93,8 @@ leverages sensors and tools that collects, collates, and analyzes weather data t
 
 **Solutions:** Technologies and solutions that do not yet have enough scientific and financial information to model, but that could emerge within the next several years as game-changers in the effort to reverse global warming.
 
-- [Self-Driving Cars]()
+- Self-Driving Cars
+- Carbon Removal
 
 ## 🌍 Climate Change and Society
 
@@ -109,7 +111,6 @@ leverages sensors and tools that collects, collates, and analyzes weather data t
 
 Innovative projects need funding, this is a list of resources where hackers and devs can seek for it.
 
-- [Microsoft AI for Earth](https://www.microsoft.com/en-us/ai-for-earth/grants) is an innovation program from Microsoft that supports sustainable projects with grants, PR and networking opportunities.
 - [Climate KIC](https://www.climate-kic.org) is supported by the European Institute of Innovation and Technology and identifies and supports innovation that helps society mitigate and adapt to climate change.
 - [Climate-KIC Accelerator](http://www.climate-kic-dach.org/) supports startups that aspire to create a positive effect on climate issues.
 - [Y Combinator](http://carbon.ycombinator.com/) requests and funds startups that concentrate on frontier technologies such as carbon removal.
