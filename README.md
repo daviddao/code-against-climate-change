@@ -21,6 +21,7 @@ Image by @Paul_Strobel
 - [Global Carbon Atlas](http://www.globalcarbonatlas.org) is a platform to explore and visualize the most up-to-date data on carbon fluxes resulting from human activities and natural processes.
 - [Climate Impact Lab](http://www.impactlab.org/) is a collaboration of 30 climate scientists, economists, computational experts, researchers, analysts, and students from the US providing insights into climate change.
 - [The Gold Standard](https://www.goldstandard.org) manages best practice standards for climate and sustainable development interventions to maximise impact.
+- [AXIOMAX ESG Carbon Shield](https://axiomaxllc.com) emits cryptographically verifiable carbon attestation tokens for AI inference workloads. Any auditor validates independently using the open-source verifier (Patent Pending USPTO 64/081,419). [[GitHub](https://github.com/axiomaxllc/esg-carbon-shield)]
 
 ## 🔌 Energy 
 
