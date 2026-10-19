@@ -33,6 +33,7 @@ Image by @Paul_Strobel
 - [Stanford's solar-powered pumps](https://fsi.stanford.edu/research/solar_market_gardens_as_a_tool_for_rural_development) are helping farmers in rural Benin irrigate dry land.
 - [Sol Share](https://www.me-solshare.com/) provides a peer-to-peer electricity trading network for rural households with and without solar home systems in Shariatpur, Bangladesh. People in rural Bangladesh are now earning additional income by selling their surplus electricity while new users have gained access to electricity without a centralized grid. [[UNFCCC summary](https://unfccc.int/climate-action/momentum-for-change/ict-solutions/solshare)]
 - [Google's Project Sunroof](https://www.google.com/get/sunroof) leverages high-resolution aerial imagery from Google Earth to help calculate a roof’s solar energy potential. It enables tens of millions of potential solar customers from across the U.S. to evaluate if their home is suitable for solar and how much they could save on electricity. [[UNFCCC summary](https://unfccc.int/climate-action/momentum-for-change/ict-solutions/project-sunroof)]
+- [SolarXlist](https://solarxlist.org/) — Global directory of solar, PV, and energy-storage companies (manufacturers, installers, EPCs, suppliers, distributors), searchable by country, city, and business role.
 
 ## 🌾 Food 
 
